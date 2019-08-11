@@ -142,3 +142,12 @@ def maxIndex(lst):
 
 minIndex(a)
 maxIndex(a)
+
+###################################
+# strings in multiple lines
+###################################
+s1 = "Shall I compare thee to a Summer's day?"\
+     "Thou are more lovely and more temperate:"
+s2 = ("Rough winds do shake the darling buds of May,"
+      "And Summer's lease hath all too short a date:")
+
