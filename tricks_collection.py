@@ -151,3 +151,5 @@ s1 = "Shall I compare thee to a Summer's day?"\
 s2 = ("Rough winds do shake the darling buds of May,"
       "And Summer's lease hath all too short a date:")
 
+# String Formatting
+'from {1} to {0}'.format('A', 'B')
