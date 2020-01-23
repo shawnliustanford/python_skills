@@ -10,4 +10,8 @@ This folder contains training materials for Python
 
 ![test](https://blog.dominodatalab.com/wp-content/uploads/2019/01/JP-SHAP-LIME-Image-1.png)
 
+<img src="https://blog.dominodatalab.com/wp-content/uploads/2019/01/JP-SHAP-LIME-Image-1.png" width: 300>
+
 ![test](https://en.wikipedia.org/wiki/Normal_distribution#/media/File:Normal_Distribution_PDF.svg)
+
+<img src="https://en.wikipedia.org/wiki/Normal_distribution#/media/File:Normal_Distribution_PDF.svg" width: 300>
